@@ -77,5 +77,5 @@ Shaivalya
 
 ---
 
-Feel free to update the details based on your project!
+
 
